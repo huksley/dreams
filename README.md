@@ -33,5 +33,6 @@ Original developers used this graphics in non-commercial way to show scripting e
 
 ## Links
 
+- Original music written for the game: https://modarchive.org/index.php?request=view_artist_modules&query=69164
 - Links to authors on Fidonet: http://faqs.org.ru/progr/graph/gamemake.htm
 - Rutracker dvd menu release: http://rutracker.org/forum/viewtopic.php?t=3988793
